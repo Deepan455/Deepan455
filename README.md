@@ -3,8 +3,6 @@
 #### I am a Full Stack Developer.
 
 I am a technology enthusiast who loves to play with different programming languages. I like to learn and teach others about software technologies and concepts..
-
-
 <br><br>
 **My skills**<br><br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,django,react,php,mysql,java,git&perline=5)](https://skillicons.dev)
